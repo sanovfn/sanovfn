@@ -4,7 +4,6 @@ Hi, My name is sanovfn [](https://user-images.githubusercontent.com/18350557/176
 I am a python developer slightly above the average level, I am a big fan of writing Bots and mostly a user-bot I have experience in developing bots of varying complexity. Developing and developing my API.
 
 * 🌍  I'm based in Russian
-* 🖥️  I to VK [vk](http://vk.com/dev_sanov)
 * ❤️  I'm luv anime and programming
 * 🧠  I'm learning swift.
 * ⚡  i love aiogram, vkbottle.
