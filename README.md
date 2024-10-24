@@ -3,9 +3,9 @@ Hi, My name is sanovfn [](https://user-images.githubusercontent.com/18350557/176
 
 I am a python middle developer , I am a big fan of writing Bots and mostly a user-bot I have experience in developing bots of varying complexity.
 
-* 🌍  I'm based in Russian
+* 🌍  I'm from Russian
 * ❤️  I'm luv anime and programming, Fortnite
-* 🧠  I'm learning swift.
+* 💘  Егор Крид Краш 
 * ⚡  ios dev
 
 <a href="https://www.github.com/sanovfn" target="_blank" rel="noreferrer"><img
