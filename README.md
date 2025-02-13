@@ -5,8 +5,7 @@ I am a python middle developer , I am a big fan of writing Bots and mostly a use
 
 * 🌍  I'm from Russian
 * ❤️  I'm luv anime and programming, Fortnite
-* 💘  Егор Крид Краш 
-* ⚡  ios dev
+* ⚡  swift and python dev
 
 <a href="https://www.github.com/sanovfn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sanovfn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
